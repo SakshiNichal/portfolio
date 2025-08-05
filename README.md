@@ -13,7 +13,8 @@ Welcome to my personal portfolio website! This is a responsive and visually stun
 
 ## 📸 Preview
 
-![Portfolio Preview](./screenshot.png) <!-- Replace with actual screenshot path or URL -->
+<img width="1895" height="517" alt="image" src="https://github.com/user-attachments/assets/412794af-f94f-4eca-9fd8-85e90e240e59" />
+ <!-- Replace with actual screenshot path or URL -->
 
 ## 📂 File Structure
 
